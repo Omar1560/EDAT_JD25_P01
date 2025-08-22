@@ -2,4 +2,4 @@
 
 ## Version inicial EDAT_Practica 01
 
-### Programa de generacion de numeri aleatorio en UI forms
+### Programa de generacion de numero aleatorio en UI forms
